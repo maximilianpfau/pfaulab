@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Hua | Pfau Lab</title>
+    <link>https://pfaulab.org/author/r.-hua/</link>
+      <atom:link href="https://pfaulab.org/author/r.-hua/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Hua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>R. Hua</title>
+      <link>https://pfaulab.org/author/r.-hua/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal Analysis of Drusen Volume in Intermediate Age-Related Macular Degeneration Using Two Spectral-Domain Optical Coherence Tomography Scan Patterns</title>
+      <link>https://pfaulab.org/publication/pmid-29306951/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-29306951/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

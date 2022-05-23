@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. de Sisternes | Pfau Lab</title>
+    <link>https://pfaulab.org/author/l.-de-sisternes/</link>
+      <atom:link href="https://pfaulab.org/author/l.-de-sisternes/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. de Sisternes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>L. de Sisternes</title>
+      <link>https://pfaulab.org/author/l.-de-sisternes/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Forecasting of Anti-VEGF Treatment Frequency in Neovascular Age-Related Macular Degeneration</title>
+      <link>https://pfaulab.org/publication/pmid-34185055/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-34185055/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progression of Photoreceptor Degeneration in Geographic Atrophy Secondary to Age-related Macular Degeneration</title>
+      <link>https://pfaulab.org/publication/pmid-32789526/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-32789526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Coherence Tomography Angiography in Intermediate Uveitis</title>
+      <link>https://pfaulab.org/publication/pmid-30026083/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-30026083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choroidal Flow Signal in Late-Onset Stargardt Disease and Age-Related Macular Degeneration: An OCT-Angiography Study</title>
+      <link>https://pfaulab.org/publication/pmid-30140905/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-30140905/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

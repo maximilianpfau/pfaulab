@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Pfau Lab</title>
+    <link>https://pfaulab.org/tag/academic/</link>
+      <atom:link href="https://pfaulab.org/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 23 May 2022 08:12:11 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://pfaulab.org/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Promotionsmöglichkeiten</title>
+      <link>https://pfaulab.org/post/getting-started/</link>
+      <pubDate>Mon, 23 May 2022 08:12:11 +0000</pubDate>
+      <guid>https://pfaulab.org/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;projekte-für-doktoranden&#34;&gt;Projekte für Doktoranden&lt;/h2&gt;
+&lt;p&gt;Wir haben mehrere Projekte für Doktoranden (&lt;em&gt;Dr. med.&lt;/em&gt;) zu vergeben.&lt;/p&gt;
+&lt;p&gt;Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstest für erbliche Netzhauterkrankungen und &lt;em&gt;künstliche Intelligenz&lt;/em&gt;-basierten Ansätzen zur Struktur-Funktions-Korrelation.&lt;/p&gt;
+&lt;h3 id=&#34;rahmenbedingungen&#34;&gt;Rahmenbedingungen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vorlaufzeit:&lt;/strong&gt; Sie sollten etwa 6 Monate vor dem angestrebten Beginn der Arbeit Kontakt mit uns aufnehmen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dauer:&lt;/strong&gt; Für die Projekte sollten zwei Freisemester eingeplant werden, damit genügend Zeit für das Erlernen der Methoden, selbstständiges Arbeiten und die Analysen bleibt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methoden:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Im Rahmen der Projekte werden Sie standardisiert ophthalmologische Bildgebung und Funktionstestung erlernen, sowie Funktionstest.&lt;/li&gt;
+&lt;li&gt;Je nach Interessenlage und Vorkenntnissen (v.a. in &lt;em&gt;R&lt;/em&gt; und &lt;em&gt;Python&lt;/em&gt;) können auch &lt;em&gt;künstliche Intelligenz&lt;/em&gt;-basierte Methoden erlernt werden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publikation:&lt;/strong&gt; Der Umfang der Dissertationsprojekte ist stets so gestaltet, dass in der Regel das Verfassen eines &lt;em&gt;peer-reviewed&lt;/em&gt;-Artikel als Erst- oder geteilter Erst-Autor möglich ist.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finanzielle Unterstützung:&lt;/strong&gt; Die Bewerbung um Forschungsstipendien wird aktiv gefördert und unterstützt.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

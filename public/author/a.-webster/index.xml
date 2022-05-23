@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Webster | Pfau Lab</title>
+    <link>https://pfaulab.org/author/a.-webster/</link>
+      <atom:link href="https://pfaulab.org/author/a.-webster/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Webster</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Webster</title>
+      <link>https://pfaulab.org/author/a.-webster/</link>
+    </image>
+    
+    <item>
+      <title>Progression of Retinopathy Secondary to Maternally Inherited Diabetes and Deafness - Evaluation of Predicting Parameters</title>
+      <link>https://pfaulab.org/publication/pmid-31987901/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-31987901/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

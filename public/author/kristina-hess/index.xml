@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristina Hess | Pfau Lab</title>
+    <link>https://pfaulab.org/author/kristina-hess/</link>
+      <atom:link href="https://pfaulab.org/author/kristina-hess/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristina Hess</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright>
+    <image>
+      <url>https://pfaulab.org/author/kristina-hess/avatar_hua5e7128d580d3c32f43ecfee8df6c894_21294_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kristina Hess</title>
+      <link>https://pfaulab.org/author/kristina-hess/</link>
+    </image>
+    
+  </channel>
+</rss>

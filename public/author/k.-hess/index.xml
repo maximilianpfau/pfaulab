@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Hess | Pfau Lab</title>
+    <link>https://pfaulab.org/author/k.-hess/</link>
+      <atom:link href="https://pfaulab.org/author/k.-hess/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Hess</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>K. Hess</title>
+      <link>https://pfaulab.org/author/k.-hess/</link>
+    </image>
+    
+    <item>
+      <title>Visual Dysfunction and Structural Correlates in Sorsby Fundus Dystrophy</title>
+      <link>https://pfaulab.org/publication/pmid-34352251/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-34352251/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choriocapillaris Flow Signal Impairment in Sorsby Fundus Dystrophy</title>
+      <link>https://pfaulab.org/publication/pmid-34844251/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-34844251/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner retinal degeneration associated with optic nerve head drusen in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.org/publication/pmid-34670750/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-34670750/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and Scotopic Light Sensitivity and Its Microstructural Correlates in Pseudoxanthoma Elasticum</title>
+      <link>https://pfaulab.org/publication/pmid-33090206/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-33090206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypic Spectrum of the Foveal Configuration and Foveal Avascular Zone in Patients With Alport Syndrome</title>
+      <link>https://pfaulab.org/publication/pmid-32031577/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-32031577/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

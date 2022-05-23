@@ -1,0 +1,11 @@
+---
+title: "Optical coherence tomography angiography of the foveal avascular zone in diabetic retinopathy"
+date: 2016-06-01
+publishDate: 2022-02-12T23:10:12.869328Z
+authors: ["F. J. Freiberg", "M. Pfau", "J. Wons", "M. A. Wirth", "M. D. Becker", "S. Michels"]
+publication_types: ["2"]
+abstract: "To analyze foveal avascular zone (FAZ) dimensions and symmetry in patients with diabetic retinopathy (DR) compared to healthy controls using optical coherence tomography angiography (OCT angiography). OCT angiography was performed via an Avanti® RTVue 100 XR OCT system (Optovue, Inc., Fremont, CA, USA) in patients with diabetes mellitus (DM) and healthy adults. A frame centered on the fovea was used for FAZ measurements. The borders of the superficial vascular layer were defined as 3 μm below the internal limiting membrane (ILM) and 15 μm below the inner plexiform layer (IPL), and for the deep vascular layer as15 μm and 70 μm below the IPL, respectively. Angles of maximum FAZ diameter were measured in all eyes by two graders. In healthy eyes (N = 25), the FAZ surrounding vascular arcades were intact, showing a vertical or horizontal oval symmetrical formation with a maximum diameter usually on the horizontal or vertical axis. Diabetic eyes (N = 29) presented with disintegrity of the vascular arcades, resulting in an enlarged FAZ. In the superficial layer, the mean horizontal FAZ diameter was significantly larger in the DR group (753 μm ±272 μm) than in the control group (573 μm ±177 μm, p = 0.029). The difference was even more pronounced in the deep layer, with a mean value of 659 μm ±194 μm in the control group and 1009 μm ±342 μm in the DR group (p = 0.001). Furthermore, in the superficial layer, the angle of the maximum FAZ diameter was 0° (±15°) or 90° (±15°) in 72.0 % of healthy eyes. In eyes with DR, the angle was 0° (±15°) or 90° (±15°) in only 6.9 % of cases, due to the irregular configuration of the FAZ. OCT angiography is capable of imaging retinal vasculature without dye injection. Our data suggest that it can detect disintegrity of the vascular arcades surrounding the FAZ, thus differentiating DM from healthy eyes. Vascular abnormalities were more pronounced in the deep vascular layer."
+featured: false
+publication: "*Graefes Arch Clin Exp Ophthalmol*"
+---
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Malley | Pfau Lab</title>
+    <link>https://pfaulab.org/author/c.-malley/</link>
+      <atom:link href="https://pfaulab.org/author/c.-malley/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Malley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Malley</title>
+      <link>https://pfaulab.org/author/c.-malley/</link>
+    </image>
+    
+    <item>
+      <title>Progression of Age-Related Macular Degeneration Among Individuals Homozygous for Risk Alleles on Chromosome 1 (CFH-CFHR5) or Chromosome 10 (ARMS2/HTRA1) or Both</title>
+      <link>https://pfaulab.org/publication/pmid-35113155/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.org/publication/pmid-35113155/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
