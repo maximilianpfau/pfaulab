@@ -24,14 +24,14 @@ title: Promotionsmöglichkeiten
 
 Wir haben mehrere Projekte für Doktoranden (*Dr. med.*) zu vergeben.
 
-Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstest für erbliche Netzhauterkrankungen und *künstliche Intelligenz*-basierten Ansätzen zur Struktur-Funktions-Korrelation.
+Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und *künstliche Intelligenz*-basierten Ansätzen zur Struktur-Funktions-Korrelation.
 
 ### Rahmenbedingungen
 
 * **Vorlaufzeit:** Sie sollten etwa 6 Monate vor dem angestrebten Beginn der Arbeit Kontakt mit uns aufnehmen.
 * **Dauer:** Für die Projekte sollten zwei Freisemester eingeplant werden, damit genügend Zeit für das Erlernen der Methoden, selbstständiges Arbeiten und die Analysen bleibt.
 * **Methoden:**
-  + Im Rahmen der Projekte werden Sie standardisiert ophthalmologische Bildgebung und Funktionstestung erlernen, sowie Funktionstest.
+  + Im Rahmen der Projekte werden Sie standardisiert ophthalmologische Bildgebung und Funktionstestung erlernen.
   + Je nach Interessenlage und Vorkenntnissen (v.a. in *R* und *Python*) können auch *künstliche Intelligenz*-basierte Methoden erlernt werden.
 * **Publikation:** Der Umfang der Dissertationsprojekte ist stets so gestaltet, dass in der Regel das Verfassen eines *peer-reviewed*-Artikel als Erst- oder geteilter Erst-Autor möglich ist.
 * **Finanzielle Unterstützung:** Die Bewerbung um Forschungsstipendien wird aktiv gefördert und unterstützt.
