@@ -24,7 +24,7 @@ title: Promotionsmöglichkeiten
 
 Wir haben mehrere Projekte für Doktoranden (*Dr. med.*) zu vergeben.
 
-Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und *künstliche Intelligenz*-basierten Ansätzen zur Struktur-Funktions-Korrelation.
+Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und von *künstliche Intelligenz*-basierten Ansätzen zur Struktur-Funktions-Korrelation.
 
 ### Rahmenbedingungen
 
