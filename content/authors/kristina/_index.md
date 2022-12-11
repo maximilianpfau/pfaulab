@@ -31,8 +31,8 @@ organizations:
 - name: Department of Ophthalmology, University of Basel, Basel, Switzerland
   url: ""
 
-title: Kristina Hess
-user_groups: ["Our Team"]
+title: Kristina Pfau (née Hess)
+user_groups: ["Group K. Pfau"]
 
 # role: Group Leader
 

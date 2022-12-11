@@ -29,7 +29,7 @@ organizations:
   url: ""
 
 title: Maximilian Pfau
-user_groups: ["Our Team"]
+user_groups: ["Group M. Pfau"]
 
 role: Group Leader
 
