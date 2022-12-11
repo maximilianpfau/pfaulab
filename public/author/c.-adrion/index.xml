@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Adrion | Pfau Lab</title>
-    <link>https://pfaulab.org/author/c.-adrion/</link>
-      <atom:link href="https://pfaulab.org/author/c.-adrion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pfaulab.com/author/c.-adrion/</link>
+      <atom:link href="https://pfaulab.com/author/c.-adrion/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Adrion</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>C. Adrion</title>
-      <link>https://pfaulab.org/author/c.-adrion/</link>
+      <link>https://pfaulab.com/author/c.-adrion/</link>
     </image>
     
     <item>
       <title>Modeling of atrophy size trajectories: variable transformation, prediction and age-of-onset estimation</title>
-      <link>https://pfaulab.org/publication/pmid-34404346/</link>
+      <link>https://pfaulab.com/publication/pmid-34404346/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34404346/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34404346/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Pfau Lab</title>
-    <link>https://pfaulab.org/post/</link>
-      <atom:link href="https://pfaulab.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pfaulab.com/post/</link>
+      <atom:link href="https://pfaulab.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 23 May 2022 08:12:11 +0000</lastBuildDate>
     <image>
-      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://pfaulab.org/post/</link>
+      <link>https://pfaulab.com/post/</link>
     </image>
     
     <item>
       <title>Promotionsmöglichkeiten</title>
-      <link>https://pfaulab.org/post/getting-started/</link>
+      <link>https://pfaulab.com/post/getting-started/</link>
       <pubDate>Mon, 23 May 2022 08:12:11 +0000</pubDate>
-      <guid>https://pfaulab.org/post/getting-started/</guid>
+      <guid>https://pfaulab.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;projekte-für-doktoranden&#34;&gt;Projekte für Doktoranden&lt;/h2&gt;
 &lt;p&gt;Wir haben mehrere Projekte für Doktoranden (&lt;em&gt;Dr. med.&lt;/em&gt;) zu vergeben.&lt;/p&gt;
 &lt;p&gt;Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und von &lt;em&gt;künstliche Intelligenz&lt;/em&gt;-basierten Ansätzen zur Struktur-Funktions-Korrelation.&lt;/p&gt;

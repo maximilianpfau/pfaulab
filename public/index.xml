@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pfau Lab</title>
-    <link>https://pfaulab.org/</link>
-      <atom:link href="https://pfaulab.org/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pfaulab.com/</link>
+      <atom:link href="https://pfaulab.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Pfau Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Pfau Lab</title>
-      <link>https://pfaulab.org/</link>
+      <link>https://pfaulab.com/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://pfaulab.org/courses/example/python/</link>
+      <link>https://pfaulab.com/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/courses/example/python/</guid>
+      <guid>https://pfaulab.com/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://pfaulab.org/courses/example/visualization/</link>
+      <link>https://pfaulab.com/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/courses/example/visualization/</guid>
+      <guid>https://pfaulab.com/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://pfaulab.org/courses/example/stats/</link>
+      <link>https://pfaulab.com/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/courses/example/stats/</guid>
+      <guid>https://pfaulab.com/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>https://pfaulab.org/talk/example-talk/</link>
+      <link>https://pfaulab.com/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/talk/example-talk/</guid>
+      <guid>https://pfaulab.com/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,9 +129,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Promotionsmöglichkeiten</title>
-      <link>https://pfaulab.org/post/getting-started/</link>
+      <link>https://pfaulab.com/post/getting-started/</link>
       <pubDate>Mon, 23 May 2022 08:12:11 +0000</pubDate>
-      <guid>https://pfaulab.org/post/getting-started/</guid>
+      <guid>https://pfaulab.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;projekte-für-doktoranden&#34;&gt;Projekte für Doktoranden&lt;/h2&gt;
 &lt;p&gt;Wir haben mehrere Projekte für Doktoranden (&lt;em&gt;Dr. med.&lt;/em&gt;) zu vergeben.&lt;/p&gt;
 &lt;p&gt;Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und von &lt;em&gt;künstliche Intelligenz&lt;/em&gt;-basierten Ansätzen zur Struktur-Funktions-Korrelation.&lt;/p&gt;
@@ -153,402 +153,402 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>An example title</title>
-      <link>https://pfaulab.org/resources/resources/</link>
+      <link>https://pfaulab.com/resources/resources/</link>
       <pubDate>Tue, 22 Mar 2022 13:42:19 +0000</pubDate>
-      <guid>https://pfaulab.org/resources/resources/</guid>
+      <guid>https://pfaulab.com/resources/resources/</guid>
       <description>&lt;p&gt;Test 123&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Progression of Age-Related Macular Degeneration Among Individuals Homozygous for Risk Alleles on Chromosome 1 (CFH-CFHR5) or Chromosome 10 (ARMS2/HTRA1) or Both</title>
-      <link>https://pfaulab.org/publication/pmid-35113155/</link>
+      <link>https://pfaulab.com/publication/pmid-35113155/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-35113155/</guid>
+      <guid>https://pfaulab.com/publication/pmid-35113155/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Dysfunction and Structural Correlates in Sorsby Fundus Dystrophy</title>
-      <link>https://pfaulab.org/publication/pmid-34352251/</link>
+      <link>https://pfaulab.com/publication/pmid-34352251/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34352251/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34352251/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCT Signs of Early Atrophy in Age-Related Macular Degeneration: Interreader Agreement: Classification of Atrophy Meetings Report 6</title>
-      <link>https://pfaulab.org/publication/pmid-33766801/</link>
+      <link>https://pfaulab.com/publication/pmid-33766801/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33766801/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33766801/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoreceptor degeneration in ABCA4-associated retinopathy and its genetic correlates</title>
-      <link>https://pfaulab.org/publication/pmid-35076026/</link>
+      <link>https://pfaulab.com/publication/pmid-35076026/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-35076026/</guid>
+      <guid>https://pfaulab.com/publication/pmid-35076026/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scotopic microperimetry: evolution, applications and future directions</title>
-      <link>https://pfaulab.org/publication/pmid-35025727/</link>
+      <link>https://pfaulab.com/publication/pmid-35025727/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-35025727/</guid>
+      <guid>https://pfaulab.com/publication/pmid-35025727/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Re: Jaffe et al.: C5 inhibitor avacincaptad pegol for geographic atrophy due to age-related macular degeneration (Ophthalmology. 2021;128:576-586)</title>
-      <link>https://pfaulab.org/publication/pmid-34600774/</link>
+      <link>https://pfaulab.com/publication/pmid-34600774/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34600774/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34600774/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of Reading Performance in Geographic Atrophy Secondary to Age-Related Macular Degeneration With Visual Function and Structural Biomarkers</title>
-      <link>https://pfaulab.org/publication/pmid-34591067/</link>
+      <link>https://pfaulab.com/publication/pmid-34591067/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34591067/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34591067/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choriocapillaris Flow Signal Impairment in Sorsby Fundus Dystrophy</title>
-      <link>https://pfaulab.org/publication/pmid-34844251/</link>
+      <link>https://pfaulab.com/publication/pmid-34844251/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34844251/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34844251/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimation of current and post-treatment retinal function in chronic central serous chorioretinopathy using artificial intelligence</title>
-      <link>https://pfaulab.org/publication/pmid-34650220/</link>
+      <link>https://pfaulab.com/publication/pmid-34650220/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34650220/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34650220/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inner retinal degeneration associated with optic nerve head drusen in pseudoxanthoma elasticum</title>
-      <link>https://pfaulab.org/publication/pmid-34670750/</link>
+      <link>https://pfaulab.com/publication/pmid-34670750/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34670750/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34670750/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI-based structure-function correlation in age-related macular degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-33767409/</link>
+      <link>https://pfaulab.com/publication/pmid-33767409/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33767409/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33767409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of atrophy size trajectories: variable transformation, prediction and age-of-onset estimation</title>
-      <link>https://pfaulab.org/publication/pmid-34404346/</link>
+      <link>https://pfaulab.com/publication/pmid-34404346/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34404346/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34404346/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Forecasting of Anti-VEGF Treatment Frequency in Neovascular Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-34185055/</link>
+      <link>https://pfaulab.com/publication/pmid-34185055/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-34185055/</guid>
+      <guid>https://pfaulab.com/publication/pmid-34185055/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundus-controlled perimetry (microperimetry): Application as outcome measure in clinical trials</title>
-      <link>https://pfaulab.org/publication/pmid-33022378/</link>
+      <link>https://pfaulab.com/publication/pmid-33022378/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33022378/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33022378/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NATURAL HISTORY OF QUANTITATIVE AUTOFLUORESCENCE IN INTERMEDIATE AGE-RELATED MACULAR DEGENERATION</title>
-      <link>https://pfaulab.org/publication/pmid-32740494/</link>
+      <link>https://pfaulab.com/publication/pmid-32740494/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32740494/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32740494/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundus autofluorescence imaging</title>
-      <link>https://pfaulab.org/publication/pmid-32758681/</link>
+      <link>https://pfaulab.com/publication/pmid-32758681/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32758681/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32758681/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Analysis of Retinal Thickness and Retinal Function in Eyes with Large Drusen Secondary to Intermediate Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-32721592/</link>
+      <link>https://pfaulab.com/publication/pmid-32721592/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32721592/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32721592/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prognostic value of intermediate age-related macular degeneration phenotypes for geographic atrophy progression</title>
-      <link>https://pfaulab.org/publication/pmid-32269061/</link>
+      <link>https://pfaulab.com/publication/pmid-32269061/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32269061/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32269061/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retinal light sensitivity as outcome measure in recessive Stargardt disease</title>
-      <link>https://pfaulab.org/publication/pmid-32345606/</link>
+      <link>https://pfaulab.com/publication/pmid-32345606/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32345606/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32345606/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferred retinal sensitivity in recessive Stargardt disease using machine learning</title>
-      <link>https://pfaulab.org/publication/pmid-33446864/</link>
+      <link>https://pfaulab.com/publication/pmid-33446864/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33446864/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33446864/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Coherence Tomography-Angiography in Geographic Atrophy</title>
-      <link>https://pfaulab.org/publication/pmid-32772015/</link>
+      <link>https://pfaulab.com/publication/pmid-32772015/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32772015/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32772015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Willingness of Patients to Participate in an Eye Donation Registry for Research</title>
-      <link>https://pfaulab.org/publication/pmid-33316801/</link>
+      <link>https://pfaulab.com/publication/pmid-33316801/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33316801/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33316801/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mesopic and Scotopic Light Sensitivity and Its Microstructural Correlates in Pseudoxanthoma Elasticum</title>
-      <link>https://pfaulab.org/publication/pmid-33090206/</link>
+      <link>https://pfaulab.com/publication/pmid-33090206/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33090206/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33090206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PROGRESSION OF ABCA4-RELATED RETINOPATHY: Prognostic value of demographic, functional, genetic, and imaging parameters</title>
-      <link>https://pfaulab.org/publication/pmid-33214501/</link>
+      <link>https://pfaulab.com/publication/pmid-33214501/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33214501/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33214501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Artificial intelligence in ophthalmology : Guidelines for physicians for the critical evaluation of studies]</title>
-      <link>https://pfaulab.org/publication/pmid-32857270/</link>
+      <link>https://pfaulab.com/publication/pmid-32857270/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32857270/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32857270/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progression of Photoreceptor Degeneration in Geographic Atrophy Secondary to Age-related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-32789526/</link>
+      <link>https://pfaulab.com/publication/pmid-32789526/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32789526/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32789526/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of an Automated Quantification of Relative Ellipsoid Zone Reflectivity on Spectral Domain-Optical Coherence Tomography Images</title>
-      <link>https://pfaulab.org/publication/pmid-33133775/</link>
+      <link>https://pfaulab.com/publication/pmid-33133775/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33133775/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33133775/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinants of Cone and Rod Functions in Geographic Atrophy: AI-Based Structure-Function Correlation</title>
-      <link>https://pfaulab.org/publication/pmid-32289293/</link>
+      <link>https://pfaulab.com/publication/pmid-32289293/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32289293/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32289293/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Analysis of Structural and Functional Changes in Presence of Reticular Pseudodrusen Associated With Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-32780863/</link>
+      <link>https://pfaulab.com/publication/pmid-32780863/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32780863/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32780863/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of Function in ABCA4-Related Retinopathy Using Ensemble Machine Learning</title>
-      <link>https://pfaulab.org/publication/pmid-32751377/</link>
+      <link>https://pfaulab.com/publication/pmid-32751377/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32751377/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32751377/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retinal and Choroidal Capillary Perfusion Are Reduced in Hypertensive Crisis Irrespective of Retinopathy</title>
-      <link>https://pfaulab.org/publication/pmid-32855888/</link>
+      <link>https://pfaulab.com/publication/pmid-32855888/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32855888/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32855888/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factors in Color Fundus Photographs That Can Be Used by Humans to Determine Sex of Individuals</title>
-      <link>https://pfaulab.org/publication/pmid-32832215/</link>
+      <link>https://pfaulab.com/publication/pmid-32832215/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32832215/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32832215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinants of Quality of Life in Geographic Atrophy Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-32462198/</link>
+      <link>https://pfaulab.com/publication/pmid-32462198/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32462198/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32462198/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progression of Retinopathy Secondary to Maternally Inherited Diabetes and Deafness - Evaluation of Predicting Parameters</title>
-      <link>https://pfaulab.org/publication/pmid-31987901/</link>
+      <link>https://pfaulab.com/publication/pmid-31987901/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31987901/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31987901/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Type 1 Choroidal Neovascularization Is Associated with Reduced Localized Progression of Atrophy in Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-31753808/</link>
+      <link>https://pfaulab.com/publication/pmid-31753808/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31753808/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31753808/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phenotypic Spectrum of the Foveal Configuration and Foveal Avascular Zone in Patients With Alport Syndrome</title>
-      <link>https://pfaulab.org/publication/pmid-32031577/</link>
+      <link>https://pfaulab.com/publication/pmid-32031577/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32031577/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32031577/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of Exudative Activity of Choroidal Neovascularization in Age-Related Macular Degeneration by OCT Angiography</title>
-      <link>https://pfaulab.org/publication/pmid-31665719/</link>
+      <link>https://pfaulab.com/publication/pmid-31665719/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31665719/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31665719/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting vision loss in intermediate age-related macular degeneration: A comparison of visual function tests</title>
-      <link>https://pfaulab.org/publication/pmid-32298375/</link>
+      <link>https://pfaulab.com/publication/pmid-32298375/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32298375/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32298375/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MESOPIC AND DARK-ADAPTED TWO-COLOR FUNDUS-CONTROLLED PERIMETRY IN GEOGRAPHIC ATROPHY SECONDARY TO AGE-RELATED MACULAR DEGENERATION</title>
-      <link>https://pfaulab.org/publication/pmid-30300264/</link>
+      <link>https://pfaulab.com/publication/pmid-30300264/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30300264/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30300264/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prognostic Value of Retinal Layers in Comparison with Other Risk Factors for Conversion of Intermediate Age-related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-31649003/</link>
+      <link>https://pfaulab.com/publication/pmid-31649003/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31649003/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31649003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Dry Age-Related Macular Degeneration - Epidemiology and Classification]</title>
-      <link>https://pfaulab.org/publication/pmid-31509857/</link>
+      <link>https://pfaulab.com/publication/pmid-31509857/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31509857/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31509857/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light Sensitivity Within Areas of Geographic Atrophy Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-31560765/</link>
+      <link>https://pfaulab.com/publication/pmid-31560765/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31560765/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31560765/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retinal Sensitivity Using Microperimetry in Age-Related Macular Degeneration in an Amish Population</title>
-      <link>https://pfaulab.org/publication/pmid-31589764/</link>
+      <link>https://pfaulab.com/publication/pmid-31589764/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31589764/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31589764/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of Novel Genome-Wide Significant Gene Loci and Lesion Growth in Geographic Atrophy Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-31120506/</link>
+      <link>https://pfaulab.com/publication/pmid-31120506/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31120506/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31120506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PROGNOSTIC VALUE OF SHAPE-DESCRIPTIVE FACTORS FOR THE PROGRESSION OF GEOGRAPHIC ATROPHY SECONDARY TO AGE-RELATED MACULAR DEGENERATION</title>
-      <link>https://pfaulab.org/publication/pmid-29781974/</link>
+      <link>https://pfaulab.com/publication/pmid-29781974/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29781974/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29781974/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial intelligence for morphology-based function prediction in neovascular age-related macular degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-31366903/</link>
+      <link>https://pfaulab.com/publication/pmid-31366903/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31366903/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31366903/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark-Adapted Two-Color Fundus-Controlled Perimetry in Macular Telangiectasia Type 2</title>
-      <link>https://pfaulab.org/publication/pmid-31022297/</link>
+      <link>https://pfaulab.com/publication/pmid-31022297/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31022297/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31022297/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinants of Reading Performance in Eyes with Foveal-Sparing Geographic Atrophy</title>
-      <link>https://pfaulab.org/publication/pmid-31014695/</link>
+      <link>https://pfaulab.com/publication/pmid-31014695/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-31014695/</guid>
+      <guid>https://pfaulab.com/publication/pmid-31014695/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://pfaulab.org/slides/example/</link>
+      <link>https://pfaulab.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/slides/example/</guid>
+      <guid>https://pfaulab.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -675,233 +675,233 @@ $$&lt;/p&gt;
     
     <item>
       <title>Mesopic and Dark-Adapted Two-Color Fundus-Controlled Perimetry in Choroidal Neovascularization Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-30637177/</link>
+      <link>https://pfaulab.com/publication/pmid-30637177/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30637177/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30637177/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mesopic and dark-adapted two-color fundus-controlled perimetry in patients with cuticular, reticular, and soft drusen</title>
-      <link>https://pfaulab.org/publication/pmid-30068928/</link>
+      <link>https://pfaulab.com/publication/pmid-30068928/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30068928/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30068928/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Coherence Tomography Angiography in Intermediate Uveitis</title>
-      <link>https://pfaulab.org/publication/pmid-30026083/</link>
+      <link>https://pfaulab.com/publication/pmid-30026083/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30026083/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30026083/</guid>
       <description></description>
     </item>
     
     <item>
       <title>-Related Retinopathy</title>
-      <link>https://pfaulab.org/publication/pmid-30279998/</link>
+      <link>https://pfaulab.com/publication/pmid-30279998/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30279998/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30279998/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual field indices and patterns of visual field deficits in mesopic and dark-adapted two-colour fundus-controlled perimetry in macular diseases</title>
-      <link>https://pfaulab.org/publication/pmid-29146759/</link>
+      <link>https://pfaulab.com/publication/pmid-29146759/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29146759/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29146759/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choroidal Flow Signal in Late-Onset Stargardt Disease and Age-Related Macular Degeneration: An OCT-Angiography Study</title>
-      <link>https://pfaulab.org/publication/pmid-30140905/</link>
+      <link>https://pfaulab.com/publication/pmid-30140905/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30140905/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30140905/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Progression Kinetics of Geographic Atrophy in Age-Related Macular Degeneration Are Associated With Atrophy Border Morphology</title>
-      <link>https://pfaulab.org/publication/pmid-29558533/</link>
+      <link>https://pfaulab.com/publication/pmid-29558533/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29558533/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29558533/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Imaging Patterns for Development of Central Atrophy Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-29558532/</link>
+      <link>https://pfaulab.com/publication/pmid-29558532/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29558532/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29558532/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retest Reliability of Mesopic and Dark-Adapted Microperimetry in Patients With Intermediate Age-Related Macular Degeneration and Age-Matched Controls</title>
-      <link>https://pfaulab.org/publication/pmid-30372731/</link>
+      <link>https://pfaulab.com/publication/pmid-30372731/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-30372731/</guid>
+      <guid>https://pfaulab.com/publication/pmid-30372731/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure-Function Analysis in Patients With Intermediate Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-29625486/</link>
+      <link>https://pfaulab.com/publication/pmid-29625486/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29625486/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29625486/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QUANTIFICATION OF INTRARETINAL HARD EXUDATES IN EYES WITH DIABETIC RETINOPATHY BY OPTICAL COHERENCE TOMOGRAPHY</title>
-      <link>https://pfaulab.org/publication/pmid-28196059/</link>
+      <link>https://pfaulab.com/publication/pmid-28196059/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28196059/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28196059/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Analysis of Drusen Volume in Intermediate Age-Related Macular Degeneration Using Two Spectral-Domain Optical Coherence Tomography Scan Patterns</title>
-      <link>https://pfaulab.org/publication/pmid-29306951/</link>
+      <link>https://pfaulab.com/publication/pmid-29306951/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-29306951/</guid>
+      <guid>https://pfaulab.com/publication/pmid-29306951/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-Term Intravitreal Dexamethasone Treatment in Eyes with Pretreated Chronic Diabetic Macular Edema</title>
-      <link>https://pfaulab.org/publication/pmid-28836880/</link>
+      <link>https://pfaulab.com/publication/pmid-28836880/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28836880/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28836880/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistent visual loss in dengue fever due to outer retinal damage</title>
-      <link>https://pfaulab.org/publication/pmid-28414860/</link>
+      <link>https://pfaulab.com/publication/pmid-28414860/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28414860/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28414860/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative Features of the Choriocapillaris in Healthy Individuals Using Swept-Source Optical Coherence Tomography Angiography</title>
-      <link>https://pfaulab.org/publication/pmid-28810037/</link>
+      <link>https://pfaulab.com/publication/pmid-28810037/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28810037/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28810037/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Two Systems for Fundus-Controlled Scotopic and Mesopic Perimetry in Eye with Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-28713647/</link>
+      <link>https://pfaulab.com/publication/pmid-28713647/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28713647/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28713647/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical coherence tomography angiography in age-related macular degeneration: persistence of vascular network in quiescent choroidal neovascularization</title>
-      <link>https://pfaulab.org/publication/pmid-27659278/</link>
+      <link>https://pfaulab.com/publication/pmid-27659278/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27659278/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27659278/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combined Fundus Autofluorescence and Near Infrared Reflectance as Prognostic Biomarkers for Visual Acuity in Foveal-Sparing Geographic Atrophy</title>
-      <link>https://pfaulab.org/publication/pmid-28475704/</link>
+      <link>https://pfaulab.com/publication/pmid-28475704/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28475704/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28475704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective Dynamic Range and Retest Reliability of Dark-Adapted Two-Color Fundus-Controlled Perimetry in Patients With Macular Diseases</title>
-      <link>https://pfaulab.org/publication/pmid-28692722/</link>
+      <link>https://pfaulab.com/publication/pmid-28692722/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28692722/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28692722/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green-Light Autofluorescence Versus Combined Blue-Light Autofluorescence and Near-Infrared Reflectance Imaging in Geographic Atrophy Secondary to Age-Related Macular Degeneration</title>
-      <link>https://pfaulab.org/publication/pmid-28632841/</link>
+      <link>https://pfaulab.com/publication/pmid-28632841/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28632841/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28632841/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angio-OCT de la zona avascular foveal en ojos con oclusión venosa de la retina</title>
-      <link>https://pfaulab.org/publication/pmid-28693029/</link>
+      <link>https://pfaulab.com/publication/pmid-28693029/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-28693029/</guid>
+      <guid>https://pfaulab.com/publication/pmid-28693029/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test-Retest Reliability of Scotopic and Mesopic Fundus-Controlled Perimetry Using a Modified MAIA (Macular Integrity Assessment) in Normal Eyes</title>
-      <link>https://pfaulab.org/publication/pmid-27997924/</link>
+      <link>https://pfaulab.com/publication/pmid-27997924/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27997924/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27997924/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCT Angiography-Based Detection and Quantification of the Neovascular Network in Exudative AMD</title>
-      <link>https://pfaulab.org/publication/pmid-27898979/</link>
+      <link>https://pfaulab.com/publication/pmid-27898979/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27898979/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27898979/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response of Postoperative and Chronic Uveitic Cystoid Macular Edema to a Dexamethasone-Based Intravitreal Implant (Ozurdex)</title>
-      <link>https://pfaulab.org/publication/pmid-27479780/</link>
+      <link>https://pfaulab.com/publication/pmid-27479780/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27479780/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27479780/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swept-Source OCT Angiography Imaging of the Foveal Avascular Zone and Macular Capillary Network Density in Diabetic Retinopathy</title>
-      <link>https://pfaulab.org/publication/pmid-27472076/</link>
+      <link>https://pfaulab.com/publication/pmid-27472076/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27472076/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27472076/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical coherence tomography angiography of the foveal avascular zone in diabetic retinopathy</title>
-      <link>https://pfaulab.org/publication/pmid-26338819/</link>
+      <link>https://pfaulab.com/publication/pmid-26338819/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-26338819/</guid>
+      <guid>https://pfaulab.com/publication/pmid-26338819/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distinct Genetic Risk Profile of the Rapidly Progressing Diffuse-Trickling Subtype of Geographic Atrophy in Age-Related Macular Degeneration (AMD)</title>
-      <link>https://pfaulab.org/publication/pmid-27149696/</link>
+      <link>https://pfaulab.com/publication/pmid-27149696/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27149696/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27149696/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://pfaulab.org/project/external-project/</link>
+      <link>https://pfaulab.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/project/external-project/</guid>
+      <guid>https://pfaulab.com/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://pfaulab.org/project/internal-project/</link>
+      <link>https://pfaulab.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/project/internal-project/</guid>
+      <guid>https://pfaulab.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -912,41 +912,41 @@ $$&lt;/p&gt;
     
     <item>
       <title>Optical Coherence Tomography Angiography of the Foveal Avascular Zone in Retinal Vein Occlusion</title>
-      <link>https://pfaulab.org/publication/pmid-27160007/</link>
+      <link>https://pfaulab.com/publication/pmid-27160007/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-27160007/</guid>
+      <guid>https://pfaulab.com/publication/pmid-27160007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clinical Experience With the First Commercially Available Intraoperative Optical Coherence Tomography System</title>
-      <link>https://pfaulab.org/publication/pmid-26599241/</link>
+      <link>https://pfaulab.com/publication/pmid-26599241/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-26599241/</guid>
+      <guid>https://pfaulab.com/publication/pmid-26599241/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clinical outcome after switching therapy from ranibizumab and/or bevacizumab to aflibercept in central retinal vein occlusion</title>
-      <link>https://pfaulab.org/publication/pmid-26413794/</link>
+      <link>https://pfaulab.com/publication/pmid-26413794/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-26413794/</guid>
+      <guid>https://pfaulab.com/publication/pmid-26413794/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An extended helical conformation in domain 3a of Munc18-1 provides a template for SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) complex assembly</title>
-      <link>https://pfaulab.org/publication/pmid-24532794/</link>
+      <link>https://pfaulab.com/publication/pmid-24532794/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-24532794/</guid>
+      <guid>https://pfaulab.com/publication/pmid-24532794/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pfaulab.org/admin/config.yml</link>
+      <link>https://pfaulab.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/admin/config.yml</guid>
+      <guid>https://pfaulab.com/admin/config.yml</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Odainic | Pfau Lab</title>
-    <link>https://pfaulab.org/author/a.-odainic/</link>
-      <atom:link href="https://pfaulab.org/author/a.-odainic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pfaulab.com/author/a.-odainic/</link>
+      <atom:link href="https://pfaulab.com/author/a.-odainic/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Odainic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pfaulab.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>A. Odainic</title>
-      <link>https://pfaulab.org/author/a.-odainic/</link>
+      <link>https://pfaulab.com/author/a.-odainic/</link>
     </image>
     
     <item>
       <title>Inferred retinal sensitivity in recessive Stargardt disease using machine learning</title>
-      <link>https://pfaulab.org/publication/pmid-33446864/</link>
+      <link>https://pfaulab.com/publication/pmid-33446864/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-33446864/</guid>
+      <guid>https://pfaulab.com/publication/pmid-33446864/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of Function in ABCA4-Related Retinopathy Using Ensemble Machine Learning</title>
-      <link>https://pfaulab.org/publication/pmid-32751377/</link>
+      <link>https://pfaulab.com/publication/pmid-32751377/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.org/publication/pmid-32751377/</guid>
+      <guid>https://pfaulab.com/publication/pmid-32751377/</guid>
       <description></description>
     </item>
     

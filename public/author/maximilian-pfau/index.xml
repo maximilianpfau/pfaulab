@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maximilian Pfau | Pfau Lab</title>
-    <link>https://pfaulab.org/author/maximilian-pfau/</link>
-      <atom:link href="https://pfaulab.org/author/maximilian-pfau/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pfaulab.com/author/maximilian-pfau/</link>
+      <atom:link href="https://pfaulab.com/author/maximilian-pfau/index.xml" rel="self" type="application/rss+xml" />
     <description>Maximilian Pfau</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 23 May 2022 08:12:11 +0000</lastBuildDate>
     <image>
-      <url>https://pfaulab.org/author/maximilian-pfau/avatar_hu19288bcfa51b4f1321112457e6a4c208_39502_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://pfaulab.com/author/maximilian-pfau/avatar_hu19288bcfa51b4f1321112457e6a4c208_39502_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Maximilian Pfau</title>
-      <link>https://pfaulab.org/author/maximilian-pfau/</link>
+      <link>https://pfaulab.com/author/maximilian-pfau/</link>
     </image>
     
     <item>
       <title>Promotionsmöglichkeiten</title>
-      <link>https://pfaulab.org/post/getting-started/</link>
+      <link>https://pfaulab.com/post/getting-started/</link>
       <pubDate>Mon, 23 May 2022 08:12:11 +0000</pubDate>
-      <guid>https://pfaulab.org/post/getting-started/</guid>
+      <guid>https://pfaulab.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;projekte-für-doktoranden&#34;&gt;Projekte für Doktoranden&lt;/h2&gt;
 &lt;p&gt;Wir haben mehrere Projekte für Doktoranden (&lt;em&gt;Dr. med.&lt;/em&gt;) zu vergeben.&lt;/p&gt;
 &lt;p&gt;Der Fokus unserer Gruppe liegt auf der Entwicklung und Validierung neuer Sehfunktionstests für erbliche Netzhauterkrankungen und von &lt;em&gt;künstliche Intelligenz&lt;/em&gt;-basierten Ansätzen zur Struktur-Funktions-Korrelation.&lt;/p&gt;
