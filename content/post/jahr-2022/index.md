@@ -47,9 +47,9 @@ Wir würden uns sehr freuen, Sie auch im kommenden Jahr wieder zu Untersuchungen
 
 **Hintergrund:** Die Stargardt Erkrankung stellt die häufigste erbliche Ursache für einen Verlust der Sehschärfe im erwerbstätigen Alter dar. Einzelne, kleinere Arbeiten konnten zuvor zeigen, dass sich mittels optischer Kohärenztomographie der Verlust von Photorezeptoren grob einordnen lässt.
 
-**Innovation:** In der Arbeit, welche auf Daten einer natürlichen Verlaufsstudie am National Eye Institute beruht (Projektleiter: Brian P. Brooks, MD, PhD), konnten wir zeigen, dass es mittels eines eigens entwickelten künstlichen Intelligenz-basierten Ansatz möglich ist, präzise den Verlust von Photorezeptoren über die Zeit zu erheben. Weiterhin konnten wir nachweisen, dass die unterschiedlichen Varianten im ABCA4-Gen, die alle die Stargardt-Erkrankung auslösen, einen Einfluss auf die Krankheitsprogression haben.
+**Innovation:** In der Arbeit, welche auf Daten einer natürlichen Verlaufsstudie am National Eye Institute beruht (Projektleiter: Brian P. Brooks, MD, PhD), konnten wir zeigen, dass es mittels eines eigens entwickelten künstlichen Intelligenz-basierten Ansatz möglich ist, präzise den Verlust von Photorezeptoren über die Zeit zu erheben. Weiterhin konnten wir nachweisen, dass die unterschiedlichen Varianten im *ABCA4*-Gen, die alle die Stargardt-Erkrankung auslösen, einen Einfluss auf die Krankheitsprogression haben.
 
-**Bedeutung:** Die Arbeit trägt zur Verwendung von optischer Kohärenztomographie-basierten Auswertung in laufenden und kommenden Therapiestudien bei. Darüber werden wir in zukünftigen Studien einzelne genetische Unterformen der Stargardt Erkrankung untersuchen.
+**Bedeutung:** Die Arbeit trägt zur Verwendung von optischer Kohärenztomographie-basierten Auswertungen in laufenden und kommenden Therapiestudien bei. Darüber werden wir in zukünftigen Studien einzelne genetische Unterformen der Stargardt Erkrankung untersuchen.
  
 #### 2. Dunkeladaptation bei altersabhängiger Makuladegeneration
 > Hess K […] Cukras CA. Evaluation of Cone- and Rod-Mediated Parameters in Dark Adaptation Testing as Outcome Measures in Age-Related Macular Degeneration. Ophthalmol Retina. 2022 May 26:S2468-6530(22)00252-4 -- [Link](https://doi.org/10.1016/j.oret.2022.05.018)
