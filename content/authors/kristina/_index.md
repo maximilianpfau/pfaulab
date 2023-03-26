@@ -5,6 +5,9 @@
 
 education:
   courses:
+  - postdoc: Habilitation (Privatdozent)
+    institution: University of Bonn
+    year: 2023
   - postdoc: Postdoctoral Fellowship
     institution: National Eye Institute
     year: 2021 - 2022
@@ -60,6 +63,6 @@ superuser: false
 
 ---
 
-Kristina Hess is a clinician-scientist focusing on inherited retinal diseases (IRDs) and degenerative diseases such as age-related macular degeneration (AMD). In medical school and early during her residency in Bonn, Germany, she dedicated her research to characterizing the morphological and functional impact of a diseased Bruch’s membrane, including work on Pseudoxanthoma elasticum (PXE) and Sorsby fundus dystrophy (SFD). For her doctoral thesis on dark adaptation in PXE, Doctor Hess received the Hermann-Wacker Thesis Award from the German Ophthalmological Society (DOG).<br/>
-Building on her experience with monogenic diseases, Doctor Hess trained as a postdoctoral fellow at the National Eye Institute (National Institutes of Health, NIH). She was awarded for her project, which was based on a longitudinal study of AMD (PI and supervisor: Dr. Catherine Cukras, MD, Ph.D.), a Walter-Benjamin fellowship by the German Research Association (DFG).<br/>
-Kristina Hess now serves as an attending physician at the Department of Ophthalmology of the University of Basel, Switzerland. Her main focus is to address the remaining hurdles for clinical trials in BrM diseases and initiate an interventional trial for PXE.
+Kristina Pfau (née Hess) is a clinician-scientist focusing on inherited retinal diseases (IRDs) and degenerative diseases such as age-related macular degeneration (AMD). In medical school and early during her residency in Bonn, Germany, she dedicated her research to characterizing the morphological and functional impact of a diseased Bruch’s membrane, including work on Pseudoxanthoma elasticum (PXE) and Sorsby fundus dystrophy (SFD). For her doctoral thesis on dark adaptation in PXE, Doctor Pfau received the Hermann-Wacker Thesis Award from the German Ophthalmological Society (DOG).<br/>
+Building on her experience with monogenic diseases, Doctor Pfau trained as a postdoctoral fellow at the National Eye Institute (National Institutes of Health, NIH). She was awarded for her project, which was based on a longitudinal study of AMD (PI and supervisor: Dr. Catherine Cukras, MD, Ph.D.), a Walter-Benjamin fellowship by the German Research Association (DFG).<br/>
+Kristina Pfau now serves as an attending physician at the Department of Ophthalmology of the University of Basel, Switzerland. Her main focus is to address the remaining hurdles for clinical trials in BrM diseases and initiate an interventional trial for PXE.
