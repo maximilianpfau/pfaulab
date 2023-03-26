@@ -57,6 +57,6 @@ superuser: false
 
 ---
 
-Maximilian Pfau earned his Medical Degree from Heidelberg University, Germany. During this time, he conducted basic science biochemistry research in Prof. Söllner’s lab. Following graduation and a short-term research fellowship at the Doheny Eye Institute, UCLA, he entered the ophthalmology residency program at the University of Bonn, Germany. Subsequently, Dr. Pfau pursed postdoctoral training in AI-based image analysis in Prof. Rubin’s lab at Stanford University, and in psychophysics and electrophysiology in Dr. Jeffrey’s lab at the National Eye Institute. 
+Maximilian Pfau earned his Medical Degree from Heidelberg University, Germany. During this time, he conducted basic science biochemistry research in Prof. Söllner’s lab. Following graduation and a short-term research fellowship at the Doheny Eye Institute, UCLA, he entered the ophthalmology residency program at the University of Bonn, Germany. Subsequently, Dr. Pfau pursued postdoctoral training in AI-based image analysis in Prof. Rubin’s lab at Stanford University, and in psychophysics and electrophysiology in Dr. Jeffrey’s lab at the National Eye Institute. 
 
 
