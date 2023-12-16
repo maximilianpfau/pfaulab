@@ -5,12 +5,28 @@
     <link>https://pfaulab.com/author/p.-herrmann/</link>
       <atom:link href="https://pfaulab.com/author/p.-herrmann/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Herrmann</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>P. Herrmann</title>
       <link>https://pfaulab.com/author/p.-herrmann/</link>
     </image>
+    
+    <item>
+      <title>Inner retinal degeneration associated with optic nerve head drusen in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.com/publication/pmid-34670750/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-34670750/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choriocapillaris Flow Signal Impairment in Patients With Pseudoxanthoma Elasticum</title>
+      <link>https://pfaulab.com/publication/pmid-36809302/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-36809302/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visual Dysfunction and Structural Correlates in Sorsby Fundus Dystrophy</title>
@@ -23,16 +39,16 @@
     <item>
       <title>Choriocapillaris Flow Signal Impairment in Sorsby Fundus Dystrophy</title>
       <link>https://pfaulab.com/publication/pmid-34844251/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://pfaulab.com/publication/pmid-34844251/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Inner retinal degeneration associated with optic nerve head drusen in pseudoxanthoma elasticum</title>
-      <link>https://pfaulab.com/publication/pmid-34670750/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://pfaulab.com/publication/pmid-34670750/</guid>
+      <title>Analysis of imaging biomarkers and retinal nerve fiber layer thickness in RPGR-associated retinitis pigmentosa</title>
+      <link>https://pfaulab.com/publication/pmid-34287692/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-34287692/</guid>
       <description></description>
     </item>
     
@@ -61,6 +77,22 @@
     </item>
     
     <item>
+      <title>SPECTRAL FUNDUS AUTOFLUORESCENCE EXCITATION AND EMISSION IN ABCA4-RELATED RETINOPATHY</title>
+      <link>https://pfaulab.com/publication/pmid-31876892/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31876892/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DARK ADAPTATION IN MACULAR TELANGIECTASIA TYPE 2</title>
+      <link>https://pfaulab.com/publication/pmid-31800456/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31800456/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediction of Function in ABCA4-Related Retinopathy Using Ensemble Machine Learning</title>
       <link>https://pfaulab.com/publication/pmid-32751377/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -73,6 +105,14 @@
       <link>https://pfaulab.com/publication/pmid-32031577/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://pfaulab.com/publication/pmid-32031577/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Geno- and Phenotyping in a Complex Pedigree Including Four Different Inherited Retinal Dystrophies</title>
+      <link>https://pfaulab.com/publication/pmid-32013026/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-32013026/</guid>
       <description></description>
     </item>
     

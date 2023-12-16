@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. H. Birtel | Pfau Lab</title>
+    <link>https://pfaulab.com/author/t.-h.-birtel/</link>
+      <atom:link href="https://pfaulab.com/author/t.-h.-birtel/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. H. Birtel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>T. H. Birtel</title>
+      <link>https://pfaulab.com/author/t.-h.-birtel/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of imaging biomarkers and retinal nerve fiber layer thickness in RPGR-associated retinitis pigmentosa</title>
+      <link>https://pfaulab.com/publication/pmid-34287692/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-34287692/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Geno- and Phenotyping in a Complex Pedigree Including Four Different Inherited Retinal Dystrophies</title>
+      <link>https://pfaulab.com/publication/pmid-32013026/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-32013026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
