@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Czauderna | Pfau Lab</title>
+    <link>https://pfaulab.com/author/j.-czauderna/</link>
+      <atom:link href="https://pfaulab.com/author/j.-czauderna/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Czauderna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Czauderna</title>
+      <link>https://pfaulab.com/author/j.-czauderna/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of Reading Performance in Eyes with Foveal-Sparing Geographic Atrophy</title>
+      <link>https://pfaulab.com/publication/pmid-31014695/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31014695/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined Fundus Autofluorescence and Near Infrared Reflectance as Prognostic Biomarkers for Visual Acuity in Foveal-Sparing Geographic Atrophy</title>
+      <link>https://pfaulab.com/publication/pmid-28475704/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-28475704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct Genetic Risk Profile of the Rapidly Progressing Diffuse-Trickling Subtype of Geographic Atrophy in Age-Related Macular Degeneration (AMD)</title>
+      <link>https://pfaulab.com/publication/pmid-27149696/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-27149696/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

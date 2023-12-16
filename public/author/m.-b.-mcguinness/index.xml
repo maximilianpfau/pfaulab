@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. B. McGuinness | Pfau Lab</title>
+    <link>https://pfaulab.com/author/m.-b.-mcguinness/</link>
+      <atom:link href="https://pfaulab.com/author/m.-b.-mcguinness/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. B. McGuinness</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>M. B. McGuinness</title>
+      <link>https://pfaulab.com/author/m.-b.-mcguinness/</link>
+    </image>
+    
+    <item>
+      <title>NATURAL HISTORY OF QUANTITATIVE AUTOFLUORESCENCE IN INTERMEDIATE AGE-RELATED MACULAR DEGENERATION</title>
+      <link>https://pfaulab.com/publication/pmid-32740494/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-32740494/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

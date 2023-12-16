@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Dysli | Pfau Lab</title>
+    <link>https://pfaulab.com/author/c.-dysli/</link>
+      <atom:link href="https://pfaulab.com/author/c.-dysli/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Dysli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Dysli</title>
+      <link>https://pfaulab.com/author/c.-dysli/</link>
+    </image>
+    
+    <item>
+      <title>SPECTRAL FUNDUS AUTOFLUORESCENCE EXCITATION AND EMISSION IN ABCA4-RELATED RETINOPATHY</title>
+      <link>https://pfaulab.com/publication/pmid-31876892/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31876892/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of Cone and Rod Functions in Geographic Atrophy: AI-Based Structure-Function Correlation</title>
+      <link>https://pfaulab.com/publication/pmid-32289293/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-32289293/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type 1 Choroidal Neovascularization Is Associated with Reduced Localized Progression of Atrophy in Age-Related Macular Degeneration</title>
+      <link>https://pfaulab.com/publication/pmid-31753808/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31753808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Sensitivity Within Areas of Geographic Atrophy Secondary to Age-Related Macular Degeneration</title>
+      <link>https://pfaulab.com/publication/pmid-31560765/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31560765/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial intelligence for morphology-based function prediction in neovascular age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pmid-31366903/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31366903/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

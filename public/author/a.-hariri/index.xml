@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Hariri | Pfau Lab</title>
+    <link>https://pfaulab.com/author/a.-hariri/</link>
+      <atom:link href="https://pfaulab.com/author/a.-hariri/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Hariri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Hariri</title>
+      <link>https://pfaulab.com/author/a.-hariri/</link>
+    </image>
+    
+    <item>
+      <title>Retinal Sensitivity Using Microperimetry in Age-Related Macular Degeneration in an Amish Population</title>
+      <link>https://pfaulab.com/publication/pmid-31589764/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31589764/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUANTIFICATION OF INTRARETINAL HARD EXUDATES IN EYES WITH DIABETIC RETINOPATHY BY OPTICAL COHERENCE TOMOGRAPHY</title>
+      <link>https://pfaulab.com/publication/pmid-28196059/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-28196059/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

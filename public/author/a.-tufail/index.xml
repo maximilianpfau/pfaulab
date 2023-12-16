@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Tufail | Pfau Lab</title>
+    <link>https://pfaulab.com/author/a.-tufail/</link>
+      <atom:link href="https://pfaulab.com/author/a.-tufail/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Tufail</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Tufail</title>
+      <link>https://pfaulab.com/author/a.-tufail/</link>
+    </image>
+    
+    <item>
+      <title>Characteristics and Spatial Distribution of Structural Features in Age-Related Macular Degeneration: A MACUSTAR Study Report</title>
+      <link>https://pfaulab.com/publication/pmid-36563964/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-36563964/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparability of automated drusen volume measurements in age-related macular degeneration: a MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/pmid-36535990/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-36535990/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative ellipsoid zone reflectivity and its association with disease severity in age-related macular degeneration: a MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/pmid-36056113/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-36056113/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferred retinal sensitivity in recessive Stargardt disease using machine learning</title>
+      <link>https://pfaulab.com/publication/pmid-33446864/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-33446864/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Function in ABCA4-Related Retinopathy Using Ensemble Machine Learning</title>
+      <link>https://pfaulab.com/publication/pmid-32751377/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-32751377/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progression of Retinopathy Secondary to Maternally Inherited Diabetes and Deafness - Evaluation of Predicting Parameters</title>
+      <link>https://pfaulab.com/publication/pmid-31987901/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-31987901/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Wons | Pfau Lab</title>
+    <link>https://pfaulab.com/author/j.-wons/</link>
+      <atom:link href="https://pfaulab.com/author/j.-wons/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Wons</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Wons</title>
+      <link>https://pfaulab.com/author/j.-wons/</link>
+    </image>
+    
+    <item>
+      <title>Optical coherence tomography angiography in age-related macular degeneration: persistence of vascular network in quiescent choroidal neovascularization</title>
+      <link>https://pfaulab.com/publication/pmid-27659278/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-27659278/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n venosa de la retina</title>
+      <link>https://pfaulab.com/publication/pmid-28693029/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-28693029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical coherence tomography angiography of the foveal avascular zone in diabetic retinopathy</title>
+      <link>https://pfaulab.com/publication/pmid-26338819/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-26338819/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Coherence Tomography Angiography of the Foveal Avascular Zone in Retinal Vein Occlusion</title>
+      <link>https://pfaulab.com/publication/pmid-27160007/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pmid-27160007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
