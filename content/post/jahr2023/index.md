@@ -61,7 +61,7 @@ Wir freuen uns bereits, Sie auch im kommenden Jahr wieder zu Untersuchungen begr
 **Bedeutung:** Die Arbeit ist der bislang umfangreichste Vergleich von Sehfunktionstests bei Morbus Stargardt. Gerade in Patienten mit fortgeschrittener Erkrankung, bei denen die meisten Sehfunktionstests nicht mehr durchführbar sind, kann das Elektroretinogramm angewandt werden, um den Verlauf zu quantifizieren.
 
 #### 3. Fundus-kontrollierte Messung der Dunkeladaptation
-> Establishing Fully-Automated Fundus-Controlled Dark Adaptometry: A Validation and Retest-Reliability Study Jeannine Oertli, Kristina Pfau, Hendrik P.N. Scholl, Brett G. Jeffrey, Maximilian Pfau medRxiv 2023.06.09.23291212; doi: https://doi.org/10.1101/2023.06.09.23291212
+> Oertli, J. M., Pfau, K., Scholl, H. P. N., Jeffrey, B. G., & Pfau, M. (2023). Establishing Fully-Automated Fundus-Controlled Dark Adaptometry: A Validation and Retest-Reliability Study. Translational vision science & technology, 12(12), 18. https://doi.org/10.1167/tvst.12.12.18
 
 **Hintergrund:** Die Rate der Dunkeladaptation ist in vielen Netzhauterkrankungen verlangsamt. Patienten berichten, dass sie deutlich länger brauchen, um sich beim Betreten von Innenräumen an die Umgebung zu gewöhnen. Allerdings gab es bislang keine Methode um dies in Patienten zu messen, die nicht oder nur schlecht fixieren (den Blick auf einen kleinen Punkt aufnehmen und halten) können.
 
