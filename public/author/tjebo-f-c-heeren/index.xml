@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tjebo F C Heeren | Pfau Lab</title>
+    <link>https://pfaulab.com/author/tjebo-f-c-heeren/</link>
+      <atom:link href="https://pfaulab.com/author/tjebo-f-c-heeren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tjebo F C Heeren</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tjebo F C Heeren</title>
+      <link>https://pfaulab.com/author/tjebo-f-c-heeren/</link>
+    </image>
+    
+    <item>
+      <title>Hyperreflectivity on optical coherence tomography in macular telangiectasia Type 2</title>
+      <link>https://pfaulab.com/publication/tzaridis-2021-oo/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/tzaridis-2021-oo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITHDRAWN: Hyper-reflectivity on optical coherence tomography in macular telangiectasia type 2</title>
+      <link>https://pfaulab.com/publication/tzaridis-2020-yj/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/tzaridis-2020-yj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark adaptation in macular telangiectasia Type 2</title>
+      <link>https://pfaulab.com/publication/tzaridis-2020-jv/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/tzaridis-2020-jv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Künstliche Intelligenz in der Augenheilkunde</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ql/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark-adapted two-color fundus-controlled perimetry in macular telangiectasia type 2</title>
+      <link>https://pfaulab.com/publication/heeren-2019-rd/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/heeren-2019-rd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix Grassmann | Pfau Lab</title>
+    <link>https://pfaulab.com/author/felix-grassmann/</link>
+      <atom:link href="https://pfaulab.com/author/felix-grassmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felix Grassmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Felix Grassmann</title>
+      <link>https://pfaulab.com/author/felix-grassmann/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of novel genome-wide significant gene loci and lesion growth in Geographic Atrophy secondary to age-Related Macular Degeneration</title>
+      <link>https://pfaulab.com/publication/grassmann-2019-rm/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/grassmann-2019-rm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct genetic risk profile of the rapidly progressing diffuse-trickling subtype of geographic atrophy in Age-related macular degeneration (AMD)</title>
+      <link>https://pfaulab.com/publication/fleckenstein-2016-to/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/fleckenstein-2016-to/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

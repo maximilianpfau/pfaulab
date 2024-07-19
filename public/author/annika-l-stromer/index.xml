@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annika L Strömer | Pfau Lab</title>
+    <link>https://pfaulab.com/author/annika-l-stromer/</link>
+      <atom:link href="https://pfaulab.com/author/annika-l-stromer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annika L Strömer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Annika L Strömer</title>
+      <link>https://pfaulab.com/author/annika-l-stromer/</link>
+    </image>
+    
+    <item>
+      <title>Detecting vision loss in intermediate age-related macular degeneration: A comparison of visual function tests</title>
+      <link>https://pfaulab.com/publication/pondorfer-2020-iw/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pondorfer-2020-iw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

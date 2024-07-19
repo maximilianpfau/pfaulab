@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aarti S Hinduja | Pfau Lab</title>
+    <link>https://pfaulab.com/author/aarti-s-hinduja/</link>
+      <atom:link href="https://pfaulab.com/author/aarti-s-hinduja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aarti S Hinduja</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Aarti S Hinduja</title>
+      <link>https://pfaulab.com/author/aarti-s-hinduja/</link>
+    </image>
+    
+    <item>
+      <title>Photoreceptor degeneration in ABCA4-associated retinopathy and its genetic correlates</title>
+      <link>https://pfaulab.com/publication/pfau-2022-mv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2022-mv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

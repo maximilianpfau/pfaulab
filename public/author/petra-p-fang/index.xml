@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petra P Fang | Pfau Lab</title>
+    <link>https://pfaulab.com/author/petra-p-fang/</link>
+      <atom:link href="https://pfaulab.com/author/petra-p-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Petra P Fang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Petra P Fang</title>
+      <link>https://pfaulab.com/author/petra-p-fang/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal analysis of drusen volume in intermediate age-related macular degeneration using two spectral-domain optical coherence tomography scan patterns</title>
+      <link>https://pfaulab.com/publication/thiele-2018-iv/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/thiele-2018-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent visual loss in dengue fever due to outer retinal damage</title>
+      <link>https://pfaulab.com/publication/fang-2017-if/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/fang-2017-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCT angiography-based detection and quantification of the neovascular network in exudative AMD</title>
+      <link>https://pfaulab.com/publication/lindner-2016-xr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2016-xr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

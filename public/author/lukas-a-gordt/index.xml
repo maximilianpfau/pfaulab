@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas A Gördt | Pfau Lab</title>
+    <link>https://pfaulab.com/author/lukas-a-gordt/</link>
+      <atom:link href="https://pfaulab.com/author/lukas-a-gordt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lukas A Gördt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lukas A Gördt</title>
+      <link>https://pfaulab.com/author/lukas-a-gordt/</link>
+    </image>
+    
+    <item>
+      <title>Local progression kinetics of Geographic Atrophy in Age-related Macular Degeneration are associated with atrophy border morphology</title>
+      <link>https://pfaulab.com/publication/lindner-2018-fq/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2018-fq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

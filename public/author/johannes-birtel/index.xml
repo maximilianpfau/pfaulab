@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Birtel | Pfau Lab</title>
+    <link>https://pfaulab.com/author/johannes-birtel/</link>
+      <atom:link href="https://pfaulab.com/author/johannes-birtel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Birtel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Johannes Birtel</title>
+      <link>https://pfaulab.com/author/johannes-birtel/</link>
+    </image>
+    
+    <item>
+      <title>Visual dysfunction and structural correlates in Sorsby fundus dystrophy</title>
+      <link>https://pfaulab.com/publication/raming-2022-ey/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/raming-2022-ey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of imaging biomarkers and retinal nerve fiber layer thickness in RPGR-associated retinitis pigmentosa</title>
+      <link>https://pfaulab.com/publication/birtel-2021-vj/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/birtel-2021-vj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and scotopic light sensitivity and its microstructural correlates in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.com/publication/hess-2020-wg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/hess-2020-wg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROGRESSION OF ABCA4-RELATED RETINOPATHY: Prognostic value of demographic, functional, genetic, and imaging parameters</title>
+      <link>https://pfaulab.com/publication/muller-2020-qy/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2020-qy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impaired dark adaptation associated with a diseased Bruch membrane in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.com/publication/hess-2020-qz/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/hess-2020-qz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Geno- and phenotyping in a complex pedigree including four different inherited retinal dystrophies</title>
+      <link>https://pfaulab.com/publication/birtel-2020-hk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/birtel-2020-hk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of green versus blue fundus autofluorescence in ABCA4-related retinopathy</title>
+      <link>https://pfaulab.com/publication/muller-2018-hi/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2018-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective dynamic range and retest reliability of dark-adapted two-color fundus-controlled perimetry in patients with macular diseases</title>
+      <link>https://pfaulab.com/publication/pfau-2017-tn/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2017-tn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

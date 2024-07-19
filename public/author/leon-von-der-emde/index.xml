@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leon von der Emde | Pfau Lab</title>
+    <link>https://pfaulab.com/author/leon-von-der-emde/</link>
+      <atom:link href="https://pfaulab.com/author/leon-von-der-emde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leon von der Emde</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Leon von der Emde</title>
+      <link>https://pfaulab.com/author/leon-von-der-emde/</link>
+    </image>
+    
+    <item>
+      <title>Impact of lens autofluorescence and opacification on retinal imaging</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2024-tj/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2024-tj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized lens correction improves quantitative fundus autofluorescence analysis</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2024-zl/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2024-zl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue-light fundus autofluorescence imaging of pigment epithelial detachments</title>
+      <link>https://pfaulab.com/publication/bindewald-wittich-2023-ot/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/bindewald-wittich-2023-ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-based structure-function correlation in age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2021-jj/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2021-jj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and scotopic light sensitivity and its microstructural correlates in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.com/publication/hess-2020-wg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/hess-2020-wg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Künstliche Intelligenz in der Augenheilkunde</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ql/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progression of photoreceptor degeneration in Geographic Atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ab/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of cone and rod functions in geographic atrophy: AI-based structure-function correlation</title>
+      <link>https://pfaulab.com/publication/pfau-2020-sk/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type 1 choroidal neovascularization is associated with reduced localized progression of atrophy in age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2020-tm/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of exudative activity of choroidal neovascularization in age-related macular degeneration by OCT angiography</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2020-fz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2020-fz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and dark-adapted two-color fundus-controlled perimetry in Geographic Atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ph/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic value of retinal layers in comparison with other risk factors for conversion of intermediate age-related Macular Degeneration</title>
+      <link>https://pfaulab.com/publication/thiele-2020-mo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/thiele-2020-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light sensitivity within areas of Geographic Atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2019-au/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2019-au/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and dark-adapted two-color fundus-controlled perimetry in choroidal neovascularization secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2019-jv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2019-jv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

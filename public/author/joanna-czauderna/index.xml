@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joanna Czauderna | Pfau Lab</title>
+    <link>https://pfaulab.com/author/joanna-czauderna/</link>
+      <atom:link href="https://pfaulab.com/author/joanna-czauderna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joanna Czauderna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Joanna Czauderna</title>
+      <link>https://pfaulab.com/author/joanna-czauderna/</link>
+    </image>
+    
+    <item>
+      <title>Association of lesion location and functional parameters with vision-related quality of life in geographic atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/kunzel-2024-kx/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2024-kx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of lesion location and functional parameters on vision-related quality of life in geographic atrophy secondary to AMD</title>
+      <link>https://pfaulab.com/publication/kunzel-2023-dd/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2023-dd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of reading performance in eyes with foveal-sparing geographic atrophy</title>
+      <link>https://pfaulab.com/publication/lindner-2019-zi/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2019-zi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined fundus autofluorescence and near infrared reflectance as prognostic biomarkers for visual acuity in foveal-sparing geographic atrophy</title>
+      <link>https://pfaulab.com/publication/lindner-2017-ql/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2017-ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct genetic risk profile of the rapidly progressing diffuse-trickling subtype of geographic atrophy in Age-related macular degeneration (AMD)</title>
+      <link>https://pfaulab.com/publication/fleckenstein-2016-to/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/fleckenstein-2016-to/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

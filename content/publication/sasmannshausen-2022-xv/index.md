@@ -1,0 +1,69 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Intersession repeatability of structural biomarkers in early and intermediate
+  age-related macular degeneration: A MACUSTAR study report'
+subtitle: ''
+summary: ''
+authors:
+- Marlene Saßmannshausen
+- Sarah Thiele
+- Charlotte Behning
+- Maximilian Pfau
+- Matthias Schmid
+- Sérgio Leal
+- Ulrich F O Luhmann
+- Robert P Finger
+- Frank G Holz
+- Steffen Schmitz-Valckenberg
+- MACUSTAR Consortium
+tags: []
+categories: []
+date: '2022-03-01'
+lastmod: 2024-07-19T23:41:02+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2024-07-19T21:41:01.167493Z'
+publication_types:
+- '2'
+abstract: "Purpose: To analyze the intersession repeatability of structural biomarkers\
+  \ in eyes with early and intermediate age-related macular degeneration (iAMD) within\
+  \ the cross-sectional part of the observational multicenter MACUSTAR study. Methods:\
+  \ Certified site personnel obtained multimodal imaging data at two visits (38 $±$\
+  \ 20 [mean $±$ standard deviation] days apart), including spectral-domain optical\
+  \ coherence tomography (SD-OCT). One junior reader performed systematic and blinded\
+  \ grading at the central reading center, followed by senior reader review. Structural\
+  \ biomarkers included maximum drusen size classification (>63 to $łeq$125 µm vs.\
+  \ >125 µm), presence of large pigment epithelium detachments (PEDs), reticular pseudodrusen\
+  \ (RPD), vitelliform lesions, and refractile deposits. Intrasession variability\
+  \ was assessed using Cohen's $ąppa$ statistics. Results: At the first visit, 202\
+  \ study eyes of 202 participants were graded as manifesting with either early (n\
+  \ = 34) or intermediate (n = 168) AMD. Grading of imaging data between visits revealed\
+  \ perfect agreement for the maximum drusen size classification ($p̨pa$ = 0.817;\
+  \ 95% confidence interval, 0.70-0.94). In iAMD eyes, perfect to substantial agreement\
+  \ was determined for the presence of large PEDs (0.87; 0.69-1.00) and RPD (0.752;\
+  \ 0.63-0.87), while intersession agreement was lower for the presence of vitelliform\
+  \ lesions (0.649; 0.39-0.65) and refractile deposits (0.342; -0.029-0.713), respectively.\
+  \ Conclusions: Multimodal retinal imaging analysis between sessions showed a higher\
+  \ repeatability for structural biomarkers with predefined cutoff values than purely\
+  \ qualitative defined parameters. Translational Relevance: A high repeatability\
+  \ of retinal imaging biomarkers will be important to implement automatic grading\
+  \ approaches and to establish robust and meaningful structural clinical endpoints\
+  \ for future interventional clinical trials in patients with iAMD."
+publication: '*Transl. Vis. Sci. Technol.*'
+---

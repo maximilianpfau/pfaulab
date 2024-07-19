@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mayss Al-Sheikh | Pfau Lab</title>
+    <link>https://pfaulab.com/author/mayss-al-sheikh/</link>
+      <atom:link href="https://pfaulab.com/author/mayss-al-sheikh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mayss Al-Sheikh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mayss Al-Sheikh</title>
+      <link>https://pfaulab.com/author/mayss-al-sheikh/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative features of the choriocapillaris in healthy individuals using swept-source optical coherence tomography angiography</title>
+      <link>https://pfaulab.com/publication/al-sheikh-2017-ez/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/al-sheikh-2017-ez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swept-source OCT angiography imaging of the foveal avascular zone and macular capillary network density in diabetic retinopathy</title>
+      <link>https://pfaulab.com/publication/al-sheikh-2016-ya/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/al-sheikh-2016-ya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

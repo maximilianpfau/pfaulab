@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Ach | Pfau Lab</title>
+    <link>https://pfaulab.com/author/thomas-ach/</link>
+      <atom:link href="https://pfaulab.com/author/thomas-ach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Ach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas Ach</title>
+      <link>https://pfaulab.com/author/thomas-ach/</link>
+    </image>
+    
+    <item>
+      <title>Impact of lens autofluorescence and opacification on retinal imaging</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2024-tj/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2024-tj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized lens correction improves quantitative fundus autofluorescence analysis</title>
+      <link>https://pfaulab.com/publication/von-der-emde-2024-zl/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/von-der-emde-2024-zl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue-light fundus autofluorescence imaging of pigment epithelial detachments</title>
+      <link>https://pfaulab.com/publication/bindewald-wittich-2023-ot/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/bindewald-wittich-2023-ot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

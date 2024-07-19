@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Degeneration; imaging; macula; retina | Pfau Lab</title>
+    <link>https://pfaulab.com/tag/degeneration-imaging-macula-retina/</link>
+      <atom:link href="https://pfaulab.com/tag/degeneration-imaging-macula-retina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Degeneration; imaging; macula; retina</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Degeneration; imaging; macula; retina</title>
+      <link>https://pfaulab.com/tag/degeneration-imaging-macula-retina/</link>
+    </image>
+    
+    <item>
+      <title>Prognostic value of intermediate age-related macular degeneration phenotypes for geographic atrophy progression</title>
+      <link>https://pfaulab.com/publication/thiele-2021-yq/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/thiele-2021-yq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

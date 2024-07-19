@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp L Müller | Pfau Lab</title>
+    <link>https://pfaulab.com/author/philipp-l-muller/</link>
+      <atom:link href="https://pfaulab.com/author/philipp-l-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipp L Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Philipp L Müller</title>
+      <link>https://pfaulab.com/author/philipp-l-muller/</link>
+    </image>
+    
+    <item>
+      <title>Human selection bias drives the linear nature of the more ground truth effect in explainable deep learning optical coherence tomography image segmentation</title>
+      <link>https://pfaulab.com/publication/maloca-2024-xk/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/maloca-2024-xk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal light sensitivity as outcome measure in recessive Stargardt disease</title>
+      <link>https://pfaulab.com/publication/pfau-2021-ch/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2021-ch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferred retinal sensitivity in recessive Stargardt disease using machine learning</title>
+      <link>https://pfaulab.com/publication/muller-2021-dc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2021-dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical coherence tomography-angiography in geographic atrophy</title>
+      <link>https://pfaulab.com/publication/muller-2021-ue/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2021-ue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and scotopic light sensitivity and its microstructural correlates in pseudoxanthoma elasticum</title>
+      <link>https://pfaulab.com/publication/hess-2020-wg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/hess-2020-wg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROGRESSION OF ABCA4-RELATED RETINOPATHY: Prognostic value of demographic, functional, genetic, and imaging parameters</title>
+      <link>https://pfaulab.com/publication/muller-2020-qy/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2020-qy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral fundus autofluorescence excitation and emission in abca4-related retinopathy</title>
+      <link>https://pfaulab.com/publication/muller-2020-yh/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2020-yh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Künstliche Intelligenz in der Augenheilkunde</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ql/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of function in ABCA4-related retinopathy using ensemble machine learning</title>
+      <link>https://pfaulab.com/publication/muller-2020-ra/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2020-ra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and dark-adapted two-color fundus-controlled perimetry in Geographic Atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2020-ph/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-ph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical coherence tomography angiography in intermediate uveitis</title>
+      <link>https://pfaulab.com/publication/wintergerst-2018-sq/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/wintergerst-2018-sq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of green versus blue fundus autofluorescence in ABCA4-related retinopathy</title>
+      <link>https://pfaulab.com/publication/muller-2018-hi/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2018-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choroidal flow signal in late-onset Stargardt disease and age-related macular degeneration: An OCT-angiography study</title>
+      <link>https://pfaulab.com/publication/muller-2018-jb/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2018-jb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective dynamic range and retest reliability of dark-adapted two-color fundus-controlled perimetry in patients with macular diseases</title>
+      <link>https://pfaulab.com/publication/pfau-2017-tn/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2017-tn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chantal Dysli | Pfau Lab</title>
+    <link>https://pfaulab.com/author/chantal-dysli/</link>
+      <atom:link href="https://pfaulab.com/author/chantal-dysli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chantal Dysli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Chantal Dysli</title>
+      <link>https://pfaulab.com/author/chantal-dysli/</link>
+    </image>
+    
+    <item>
+      <title>Spectral fundus autofluorescence excitation and emission in abca4-related retinopathy</title>
+      <link>https://pfaulab.com/publication/muller-2020-yh/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2020-yh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of cone and rod functions in geographic atrophy: AI-based structure-function correlation</title>
+      <link>https://pfaulab.com/publication/pfau-2020-sk/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type 1 choroidal neovascularization is associated with reduced localized progression of atrophy in age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2020-tm/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2020-tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light sensitivity within areas of Geographic Atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2019-au/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2019-au/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

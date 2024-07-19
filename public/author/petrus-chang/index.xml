@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petrus Chang | Pfau Lab</title>
+    <link>https://pfaulab.com/author/petrus-chang/</link>
+      <atom:link href="https://pfaulab.com/author/petrus-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Petrus Chang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Petrus Chang</title>
+      <link>https://pfaulab.com/author/petrus-chang/</link>
+    </image>
+    
+    <item>
+      <title>Characteristics and spatial distribution of structural features in age-related macular degeneration: A MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/sasmannshausen-2023-sl/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/sasmannshausen-2023-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCT signs of early atrophy in age-related macular degeneration: Interreader agreement: Classification of atrophy meetings report 6</title>
+      <link>https://pfaulab.com/publication/wu-2022-ws/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/wu-2022-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of green versus blue fundus autofluorescence in ABCA4-related retinopathy</title>
+      <link>https://pfaulab.com/publication/muller-2018-hi/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/muller-2018-hi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

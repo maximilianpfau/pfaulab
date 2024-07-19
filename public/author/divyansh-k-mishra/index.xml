@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divyansh K Mishra | Pfau Lab</title>
+    <link>https://pfaulab.com/author/divyansh-k-mishra/</link>
+      <atom:link href="https://pfaulab.com/author/divyansh-k-mishra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Divyansh K Mishra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Divyansh K Mishra</title>
+      <link>https://pfaulab.com/author/divyansh-k-mishra/</link>
+    </image>
+    
+    <item>
+      <title>Green-light autofluorescence versus combined blue-light autofluorescence and near-infrared reflectance imaging in geographic atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2017-hw/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2017-hw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

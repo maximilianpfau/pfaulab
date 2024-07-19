@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas Goerdt | Pfau Lab</title>
+    <link>https://pfaulab.com/author/lukas-goerdt/</link>
+      <atom:link href="https://pfaulab.com/author/lukas-goerdt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lukas Goerdt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lukas Goerdt</title>
+      <link>https://pfaulab.com/author/lukas-goerdt/</link>
+    </image>
+    
+    <item>
+      <title>Ellipsoid zone recovery in Macular Telangiectasia Type 2 (MacTel)</title>
+      <link>https://pfaulab.com/publication/goerdt-2024-ui/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/goerdt-2024-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of lesion location and functional parameters with vision-related quality of life in geographic atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/kunzel-2024-kx/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2024-kx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human selection bias drives the linear nature of the more ground truth effect in explainable deep learning optical coherence tomography image segmentation</title>
+      <link>https://pfaulab.com/publication/maloca-2024-xk/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/maloca-2024-xk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of lesion location and functional parameters on vision-related quality of life in geographic atrophy secondary to AMD</title>
+      <link>https://pfaulab.com/publication/kunzel-2023-dd/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2023-dd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristics and spatial distribution of structural features in age-related macular degeneration: A MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/sasmannshausen-2023-sl/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/sasmannshausen-2023-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of reading performance in Geographic Atrophy secondary to age-related macular degeneration with visual function and structural biomarkers</title>
+      <link>https://pfaulab.com/publication/kunzel-2021-hu/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2021-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of atrophy size trajectories: variable transformation, prediction and age-of-onset estimation</title>
+      <link>https://pfaulab.com/publication/behning-2021-cv/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/behning-2021-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of quality of life in geographic atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/kunzel-2020-hj/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/kunzel-2020-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic value of shape-descriptive factors for the progression of geographic atrophy secondary to age-related Macular Degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2019-lh/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2019-lh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of reading performance in eyes with foveal-sparing geographic atrophy</title>
+      <link>https://pfaulab.com/publication/lindner-2019-zi/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2019-zi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green-light autofluorescence versus combined blue-light autofluorescence and near-infrared reflectance imaging in geographic atrophy secondary to age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/pfau-2017-hw/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2017-hw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

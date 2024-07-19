@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Wiley | Pfau Lab</title>
+    <link>https://pfaulab.com/author/henry-wiley/</link>
+      <atom:link href="https://pfaulab.com/author/henry-wiley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry Wiley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Henry Wiley</title>
+      <link>https://pfaulab.com/author/henry-wiley/</link>
+    </image>
+    
+    <item>
+      <title>Hyperreflective foci in age-related macular degeneration are associated with disease severity and functional impairment</title>
+      <link>https://pfaulab.com/publication/duic-2023-jz/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/duic-2023-jz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of cone- and rod-mediated parameters in dark adaptation testing as outcome measures in age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/hess-2022-jn/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/hess-2022-jn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigations of renal function and age-related macular degeneration phenotypes</title>
+      <link>https://pfaulab.com/publication/dave-2022-af/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/dave-2022-af/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning-based modeling of the dark adaptation curve for robust parameter estimation</title>
+      <link>https://pfaulab.com/publication/de-silva-2022-jo/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/de-silva-2022-jo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

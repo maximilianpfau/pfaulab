@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia S Steinberg | Pfau Lab</title>
+    <link>https://pfaulab.com/author/julia-s-steinberg/</link>
+      <atom:link href="https://pfaulab.com/author/julia-s-steinberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia S Steinberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Julia S Steinberg</title>
+      <link>https://pfaulab.com/author/julia-s-steinberg/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal analysis of structural and functional changes in presence of reticular pseudodrusen associated with age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/sassmannshausen-2020-hb/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/sassmannshausen-2020-hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mesopic and dark-adapted two-color fundus-controlled perimetry in patients with cuticular, reticular, and soft drusen</title>
+      <link>https://pfaulab.com/publication/pfau-2018-qc/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2018-qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual field indices and patterns of visual field deficits in mesopic and dark-adapted two-colour fundus-controlled perimetry in macular diseases</title>
+      <link>https://pfaulab.com/publication/pfau-2018-xa/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/pfau-2018-xa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-function analysis in patients with intermediate age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/sasmannshausen-2018-sk/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/sasmannshausen-2018-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of two systems for fundus-controlled scotopic and mesopic perimetry in eye with age-related macular degeneration</title>
+      <link>https://pfaulab.com/publication/steinberg-2017-yp/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/steinberg-2017-yp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCT angiography-based detection and quantification of the neovascular network in exudative AMD</title>
+      <link>https://pfaulab.com/publication/lindner-2016-xr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/lindner-2016-xr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

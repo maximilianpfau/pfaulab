@@ -23,7 +23,7 @@ organizations:
   url: ""
 
 title: Lara Kaiser
-user_groups: ["Group M. Pfau"]
+user_groups:
 
 # role: 
 

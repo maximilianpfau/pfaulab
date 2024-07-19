@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Henrik Terheyden | Pfau Lab</title>
+    <link>https://pfaulab.com/author/jan-henrik-terheyden/</link>
+      <atom:link href="https://pfaulab.com/author/jan-henrik-terheyden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Henrik Terheyden</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Maximilian Pfau</copyright><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pfaulab.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jan Henrik Terheyden</title>
+      <link>https://pfaulab.com/author/jan-henrik-terheyden/</link>
+    </image>
+    
+    <item>
+      <title>Author Correction: Comparability of automated drusen volume measurements in age-related macular degeneration: a MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/garzone-2023-yl/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/garzone-2023-yl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparability of automated drusen volume measurements in age-related macular degeneration: a MACUSTAR study report</title>
+      <link>https://pfaulab.com/publication/garzone-2022-hj/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/garzone-2022-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal and choroidal capillary perfusion are reduced in hypertensive crisis irrespective of retinopathy</title>
+      <link>https://pfaulab.com/publication/terheyden-2020-ko/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://pfaulab.com/publication/terheyden-2020-ko/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
