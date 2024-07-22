@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-date: "Fri Jul 19 23:43:32 2024"
+date: "Mon Jul 22 10:51:21 2024"
 draft: false
 featured: false
 image:
@@ -10,7 +10,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "Fri Jul 19 23:43:32 2024"
+lastmod: "Mon Jul 22 10:51:21 2024"
 projects: []
 subtitle: "Umfassender Überblick zu Pseudoxanthoma Elasticum (PXE)" 
 summary: "PD Dr. Kristina Pfau und PD Dr. Maximilian Pfau veröffentlichen mit europäischen Kolleginnen und Kollegen eine detaillierte Übersicht zu PXE."
