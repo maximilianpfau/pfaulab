@@ -19,8 +19,7 @@ Mittlere Strasse 91<br>
 CH-4031 Basel<br>
 Schweiz<br>
 
-Telefon: +41 79 525 92 47<br>
-E-Mail: maximilian.pfau@iob.ch<br>
+E-Mail: maximilian.pfau@usb.ch<br>
 Website: https://pfaulab.com/
 
 

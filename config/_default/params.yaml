@@ -16,11 +16,10 @@ site_type: Person
 local_business_type: ''
 org_name: 'Pfau Lab'
 description: 'Vision Science Laboratory'
-twitter: 'https://twitter.com/maximilianpfau3'
 
 # Contact (edit or remove options as required)
 
-email: maximilian.pfau@iob.ch
+email: maximilian.pfau@usb.ch
 # phone: 888 888 88 88
 address:
   street: Mittlere Str. 91

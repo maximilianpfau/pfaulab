@@ -18,7 +18,7 @@ CH-4031 Basel<br>
 Schweiz<br>
 
 E-Mail:
-maximilian.pfau@iob.ch
+maximilian.pfau@usb.ch
 
 
 ### Haftungsausschluss

@@ -9,13 +9,7 @@ design:
   columns: '1'
 ---
 
-We are a research lab at the [Institute of Molecular and Clinical Ophthalmology Basel (IOB)](https://iob.ch). We investigate disease mechanisms of **inherited&nbsp;retinal&nbsp;degenerations&nbsp;(IRDs)** and **age-related&nbsp;macular&nbsp;degeneration&nbsp;(AMD)** using a panel of non-invasive visual function tests and high-resolution retinal imaging.
-
-
-[{{< icon name="graduation-cap" pack="fas" >}}](https://scholar.google.com/citations?user=KYuK460AAAAJ&hl)
-[{{< icon name="github" pack="fab" >}}](https://github.com/maximilianpfau)
-[{{< icon name="linkedin" pack="fab" >}}](https://www.linkedin.com/in/maximilian-pfau-a074b7a8)
-
+We are a research lab at the [Eye Clinic of the University Hospital Basel](https://www.unispital-basel.ch/augenklinik). We investigate disease mechanisms of **inherited&nbsp;retinal&nbsp;degenerations&nbsp;(IRDs)** and **age&#8209;related&nbsp;macular&nbsp;degeneration&nbsp;(AMD)** using a panel of non-invasive visual function tests and high-resolution retinal imaging.
 
 
 {{% callout note %}}
