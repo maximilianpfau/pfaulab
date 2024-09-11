@@ -18,7 +18,7 @@ education:
 # - Information Retrieval
 
 organizations:
-- name: Department of Ophthalmology, University of Basel, Basel, Switzerland
+- name: Department of Ophthalmology, University of Bonn, Bonn, Germany
   url: ""
 
 title: Jonathan Meinke
