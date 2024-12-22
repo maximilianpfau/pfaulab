@@ -4,7 +4,7 @@ education:
   courses:
   - residency: Ophthalmology Residency
     institution: University of Bonn 
-    year: 2017 - now
+    year: 2023 - now
   - course: Doctorate (Dr. med.)
     institution: University of Bonn
     year: 2024
