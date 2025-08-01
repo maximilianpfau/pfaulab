@@ -15,11 +15,10 @@ title: Datenschutzerklärung
 Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
 Maximilian Pfau<br>
-Mittlere Strasse 91<br>
-CH-4031 Basel<br>
-Schweiz<br>
+Venusberg-Campus 1<br>
+53127 Bonn<br>
 
-E-Mail: maximilian.pfau@usb.ch<br>
+E-Mail: maximilian.pfau@ukbonn.ch<br>
 Website: https://pfaulab.com/
 
 

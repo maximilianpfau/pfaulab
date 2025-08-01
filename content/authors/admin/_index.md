@@ -25,7 +25,7 @@ email: ""
 # - NA
 
 organizations:
-- name: Institute of Molecular and Clinical Ophthalmology Basel (IOB)
+- name: Department of Ophthalmology, University of Bonn
   url: ""
 
 title: Maximilian Pfau
@@ -37,12 +37,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-  header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/maximilianpfau3
+#- display:
+#  header: true
+#  icon: twitter
+#  icon_pack: fab
+#  label: Follow me on Twitter
+#  link: https://twitter.com/maximilianpfau3
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=KYuK460AAAAJ&hl
@@ -57,6 +57,11 @@ superuser: false
 
 ---
 
-Maximilian Pfau earned his Medical Degree from Heidelberg University, Germany. During this time, he conducted basic science biochemistry research in Prof. Söllner’s lab. Following graduation and a short-term research fellowship at the Doheny Eye Institute, UCLA, he entered the ophthalmology residency program at the University of Bonn, Germany. Subsequently, Dr. Pfau pursued postdoctoral training in AI-based image analysis in Prof. Rubin’s lab at Stanford University, and in psychophysics and electrophysiology in Dr. Jeffrey’s lab at the National Eye Institute. 
+Professor Dr. med. Maximilian Pfau is an ophthalmologist at the University Eye Hospital, Bonn, Germany, specialized in diagnosing and treating inherited retinal degenerative diseases (IRDs) and age-related macular degeneration (AMD). 
 
+Maximilian Pfau earned his medical degree from Heidelberg University, Germany, where he also conducted basic science research in biochemistry in the laboratory of Prof. Thomas Söllner. After graduation and a research fellowship at the Doheny Eye Institute, UCLA, he completed his residency in ophthalmology at the University of Bonn under the supervision of Prof. Frank G. Holz. He subsequently pursued postdoctoral training in AI-based image analysis in Prof. Daniel Rubin’s lab at Stanford University, and in psychophysics and electrophysiology in Dr. Brett Jeffrey’s lab at the National Eye Institute.
+
+Upon returning to Europe, he served as Senior Consultant for Inherited Retinal Diseases and Research Group Leader at the University Hospital Basel, and contributed to the development of novel therapies as Senior Principal Medical Director at Hoffmann-La Roche.
+
+In August 2025, he was appointed Full Professor of Ophthalmology at the University of Bonn.
 
