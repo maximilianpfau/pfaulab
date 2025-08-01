@@ -16,4 +16,11 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-
+#  - name: /
+#    weight: 65
+#  - name: Klinische Versorgung
+#    url: 'patients/'
+#    weight: 70
+#  - name: Spenden
+#    url: 'donations/'
+#    weight: 70
