@@ -46,18 +46,9 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: /#contact
-- display:
-  header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/KristinaHessMD
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=DTr4tK8AAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/maximilianpfau
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/kristina-hess-4b0b93217

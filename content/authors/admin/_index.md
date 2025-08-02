@@ -37,12 +37,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-#- display:
-#  header: true
-#  icon: twitter
-#  icon_pack: fab
-#  label: Follow me on Twitter
-#  link: https://twitter.com/maximilianpfau3
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=KYuK460AAAAJ&hl
@@ -56,7 +50,6 @@ social:
 superuser: false
 
 ---
-
 Professor Dr. med. Maximilian Pfau is an ophthalmologist at the University Eye Hospital, Bonn, Germany, specialized in diagnosing and treating inherited retinal degenerative diseases (IRDs) and age-related macular degeneration (AMD). 
 
 Maximilian Pfau earned his medical degree from Heidelberg University, Germany, where he also conducted basic science research in biochemistry in the laboratory of Prof. Thomas Söllner. After graduation and a research fellowship at the Doheny Eye Institute, UCLA, he completed his residency in ophthalmology at the University of Bonn under the supervision of Prof. Frank G. Holz. He subsequently pursued postdoctoral training in AI-based image analysis in Prof. Daniel Rubin’s lab at Stanford University, and in psychophysics and electrophysiology in Dr. Brett Jeffrey’s lab at the National Eye Institute.
