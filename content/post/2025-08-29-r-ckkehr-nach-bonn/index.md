@@ -1,6 +1,6 @@
 
 ---
-title: "Maximilian und Kristina Pfau zurück in Bonn"
+title: "Kristina und Maximilian Pfau zurück in Bonn"
 date: 2025-08-01
 author: "Unsere Forschungsgruppe"
 categories: ["News"]
